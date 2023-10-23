@@ -1,0 +1,26 @@
+
+#main {
+    width: 70%;
+    background-color: rgb(162, 161, 161);
+    margin: auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+/* Targeting each section element */
+section {
+    width: 65%;
+    background-color: rgb(244, 245, 246);
+    border: 2px solid black;
+    margin: 20px auto;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+/* Targeting the div with class value of "go" */
+.go {
+    text-align: center;
+}
+
+
+
